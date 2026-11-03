@@ -1,4 +1,12 @@
 
+## Dataset Source
+
+The dataset used in this project is publicly available from the UCI Machine Learning Repository.
+
+**Dataset:** [Online Retail Dataset – UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail)
+
+The dataset contains 541,909 transaction records from a UK-based online retailer, covering December 2010 to December 2011.
+
 # Retail Sales & Customer Analysis | Python & Pandas
 
 ## Project Overview
